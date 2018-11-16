@@ -79,5 +79,8 @@
   },
   "bin": {
     "dicom2json": "./cli.js"
+  },
+  "dependencies": {
+    "filereader": "^0.10.3"
   }
 }
